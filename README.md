@@ -96,7 +96,7 @@ These exact questions appeared in two different sessions:
 
 Past repetition is a pattern, not a promise. Use it to set priorities, not to skip the syllabus.
 
-Full repeat table, exam pattern and study plan (GTU Hero is my project): https://gtuhero.com/blogs/gtu-maths-2-papers-pyqs-repeated-sums
+Full repeat table, exam pattern and study plan (GTU Hero is my project): <https://gtuhero.com/blogs/gtu-maths-2-papers-pyqs-repeated-sums>
 
 ## Official papers
 
